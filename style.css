@@ -5,9 +5,9 @@ body{
 .top, .mid{
     background-color: #feea00;
 }
-.top{
+.top{ 
     padding-top: 15px;
-    padding-left: 145.5px;
+    padding-left: 70px;
     height: 100px;
     color: black;
 }
@@ -45,7 +45,7 @@ img{
     width: 26%;
     position: relative;
     left: 900px;
-    bottom: 519px;
+    bottom: 530.8px;
 }
 #text{
     margin-left: 150px;
